@@ -1,0 +1,10 @@
+jenis_pasar,komoditas,n_provinsi,tanggal_awal,tanggal_akhir,n_baris,pct_kosong_asli,pct_kosong_akhir,n_outlier
+Pasar Tradisional,Bawang Merah Ukuran Sedang,34,2021-01-01,2025-12-31,44336,2.72,0.32,50
+Pasar Tradisional,Beras Kualitas Medium I,34,2021-01-01,2025-12-31,44336,2.63,0.32,6
+Pasar Tradisional,Cabai Merah Keriting,34,2021-01-01,2025-12-31,44336,2.64,0.32,561
+Pedagang Besar,Bawang Merah Ukuran Sedang,34,2021-01-01,2025-12-31,44336,0.63,0.18,484
+Pedagang Besar,Beras Kualitas Medium I,34,2021-01-01,2025-12-31,44336,0.55,0.09,3
+Pedagang Besar,Cabai Merah Keriting,34,2021-01-01,2025-12-31,44336,0.53,0.09,1918
+Produsen,Bawang Merah Ukuran Sedang,26,2021-01-01,2025-12-31,31815,3.45,2.96,452
+Produsen,Beras Kualitas Medium I,27,2021-01-01,2025-12-31,34685,1.8,1.32,13
+Produsen,Cabai Merah Keriting,32,2021-01-01,2025-12-31,40424,3.31,2.77,1034
